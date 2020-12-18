@@ -11,6 +11,7 @@ body {
     font-family: "Josefin Sans", sans-serif;
 }
 
+/* Navigation */
 /* tell me more button */
 .btn {
     color: #ffffff;
@@ -24,8 +25,6 @@ body {
     cursor: pointer;
     margin-left: 248px;
 }
-  
-/* Navigation */
 .navigation {
     background-image: url("/images/1.jpg");
     min-height: 540px;
@@ -51,8 +50,6 @@ body {
     text-decoration: none;
     color: #ffffff;
 }
-
-/* welcome page */
 .welcome-page {
     color: #ffffff;
 }
@@ -72,7 +69,6 @@ body {
 }
 
 /* services */
-
 .services {
     padding: 72px 0 118px 0;
 }
@@ -82,7 +78,6 @@ body {
     margin-bottom: 0;
     font-weight: bold;
 }
-
 .service-title p {
     font-size: 18px;
     text-align: center;
@@ -98,12 +93,11 @@ body {
 .col-md-4 p {
     opacity: 40%;
 }
-  
 .col-md-4 h5 {
     font-size: 24px;
 }
-/* portfolio */
 
+/* portfolio */
 .portfolio {
     margin-bottom: 48px;
     background-color: lightblue;
@@ -146,6 +140,7 @@ body {
     opacity: 0.5;
     margin-top: 0;
 }
+
 /* footer */
 .footer .row {
     justify-content: center;
